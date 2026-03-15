@@ -50,6 +50,7 @@ npm run dev
 ```
 
 Open `http://localhost:3000`.
+Deployed on netlify URL: https://luxury-parfait-26caa9.netlify.app/
 
 ## 💡 Enhancement ideas
 
