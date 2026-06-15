@@ -1,6 +1,6 @@
 # PizzaApp
 
-A modern, responsive pizza ordering app built with Next.js and Tailwind CSS, designed as a polished portfolio project for hiring managers and interviewers.
+A modern, responsive pizza ordering app built with Next.js and Tailwind CSS.
 
 ## 🚀 Project Overview
 
